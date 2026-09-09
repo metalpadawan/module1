@@ -1,0 +1,18 @@
+{
+  "name": "cse310-hello-world",
+  "version": "1.0.0",
+  "description": "CSE 310 Module 1 (TypeScript) - Hello World",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Emmanuel Ndem",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "typescript": "^7.0.2"
+  }
+}

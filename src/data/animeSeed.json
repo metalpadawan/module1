@@ -1,0 +1,7 @@
+[
+  { "title": "Attack on Titan", "genre": "Action", "rating": 9.5 },
+  { "title": "Death Note", "genre": "Thriller", "rating": 9.0 },
+  { "title": "My Hero Academia", "genre": "Action", "rating": 8.4 },
+  { "title": "Steins;Gate", "genre": "Sci-Fi", "rating": 9.3 },
+  { "title": "Your Lie in April", "genre": "Drama", "rating": 8.9 }
+]

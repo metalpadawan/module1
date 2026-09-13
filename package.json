@@ -1,7 +1,7 @@
 {
-  "name": "cse310-hello-world",
+  "name": "anime-tracker",
   "version": "1.0.0",
-  "description": "CSE 310 Module 1 (TypeScript) - Hello World",
+  "description": "CSE 310 Module 1 (TypeScript) - Anime Tracker & Recommendation App",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
